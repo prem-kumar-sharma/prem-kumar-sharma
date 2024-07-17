@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">Aspiring Data Scientist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/51a99106715519.560ba84cba4a7.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
 
