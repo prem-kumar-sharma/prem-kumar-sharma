@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prem-kumar-a499b1201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/prem_kumar_sharma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
+<a href="https://instagram.com/prem.kr_sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_sharma__" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@iitm_techwhiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iitm_techwhiz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/viratprem4321?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@viratprem4321" height="30" width="40" /></a>
 </p>
