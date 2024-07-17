@@ -1,8 +1,8 @@
 ![logo](https://github.com/prem-kumar-sharma/prem-kumar-sharma/blob/80df49adfcbd5d65e440b489f6efe6170a81700c/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h3 align="center">23-year-old Data Science Student at IIT Madras</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
 
