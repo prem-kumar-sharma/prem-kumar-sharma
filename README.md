@@ -1,4 +1,5 @@
-![logo](https://github.com/prem-kumar-sharma/prem-kumar-sharma/blob/main/Black%20Illustration%20Digital%20Marketing%20Linkedin%20Article%20Cover%20Image.png)
+![My LinkedIn Banner](https://github.com/user-attachments/assets/110f0f6b-775f-400e-b9d5-1d870bd0d83a)
+
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">Data Science Student at IIT Madras</h3>
 
