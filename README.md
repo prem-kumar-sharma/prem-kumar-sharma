@@ -1,4 +1,5 @@
-![My LinkedIn Banner](https://github.com/user-attachments/assets/110f0f6b-775f-400e-b9d5-1d870bd0d83a)
+![LinkedIn Banner](https://github.com/user-attachments/assets/363a9fbc-493e-42fc-b4bb-8821ab60322d)
+
 
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">Data Science Student at IIT Madras</h3>
