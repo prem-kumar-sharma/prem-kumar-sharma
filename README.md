@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="prem-kumar-sharma" /> </p>
 
-- 📫 How to reach me **viratprem4321@gmail.com**
+- 📫 How to reach me **premksharma@alumni.iitm.ac.in**
 
 - ⚡ Fun fact **Not Funny 😁**
 
