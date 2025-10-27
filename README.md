@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="center">Data Science Student at IIT Madras</h3>
+<h3 align="center">Research Associate @ IIT Bombay 🧑🏻‍💻 | Alumnus @ IIT Madras 🎓 | AI/ML Engineer |</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
