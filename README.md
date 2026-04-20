@@ -160,9 +160,13 @@ me.say_hi()
 <!--                    QUOTE                      -->
 <!-- ============================================= -->
 
-## 💭 Dev Quote of the Day
+## 💭 Words I Build By
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+> *"The best way to predict the future is to invent it."*  
+> **— Alan Kay**
+
 </div>
 
 <!-- ============================================= -->
