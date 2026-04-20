@@ -6,16 +6,14 @@
 
 
 
-
-<a href="https://www.google.com/search?q=https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D26%26pause%3D1000%26color%3D0E75B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHi%2Bthere,%2BI%27m%2BPrem%2BKumar%2BSharma+👋;Research+Fellow+%40+IIT+Bombay;Generative+AI+%26+ML+Engineer;Alumnus+%40+IIT+Madras;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Prem+Kumar+Sharma+👋;Research+Fellow+@+IIT+Bombay;Generative+AI+%26+ML+Engineer;Alumnus+@+IIT+Madras;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing SVG" />
 </a>
 
 
 
 
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dprem-kumar-sharma%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat-square" alt="prem-kumar-sharma views" />
+<img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat-square" alt="prem-kumar-sharma views" />
 </div>
 
 👨🏻‍💻 About Me
@@ -36,7 +34,7 @@
 
 🛠️ Tech Stack & Skills
 
-🤖 Generative AI & LLMs <img src="https://www.google.com/search?q=https://img.shields.io/badge/OpenAI%2520GPT--4-412991%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
+🤖 Generative AI & LLMs <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Gemini-8E75B2%3Fstyle%3Dfor-the-badge%26logo%3Dgooglebard%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/LangChain-1C3C3C%3Fstyle%3Dfor-the-badge%26logo%3Dlangchain%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/CrewAI-FF4B4B%3Fstyle%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite" />
@@ -69,7 +67,6 @@
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dprem-kumar-sharma%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Prem's GitHub Stats" width="48%" />
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dprem-kumar-sharma%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117" alt="Top Langs" width="48%" />
 </div>
-
 
 
 
