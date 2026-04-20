@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/363a9fbc-493e-42fc-b4bb-8821ab60322d" width="100%" alt="LinkedIn Banner">
 
   <a href="https://github.com/prem-kumar-sharma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Prem+Kumar+Sharma+👋;Research+Fellow+@+IIT+Bombay;Generative+AI+%26+ML+Engineer;Alumnus+@+IIT+Madras;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Prem+Kumar+Sharma+%F0%9F%91%8B;Research+Fellow+%40+IIT+Bombay;Generative+AI+%26+ML+Engineer;Alumnus+%40+IIT+Madras;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing SVG" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=flat-square" alt="prem-kumar-sharma views" />
