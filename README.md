@@ -24,36 +24,46 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```python
 class PremKumarSharma:
     def __init__(self):
-        self.role        = "Research Fellow @ IIT Bombay"
-        self.prev_role   = "Generative AI Engineer @ LOQO AI"
-        self.education   = "BS, Data Science & Applications, IIT Madras"
-        self.research    = ["Deepfake Detection", "Wavelet Transforms", "Biometrics"]
-        self.building    = ["Multi-Agent Pipelines", "Text-to-Video Workflows"]
-        self.community   = "7,000+ on LinkedIn & YouTube"
-        self.contact     = "premksharma@alumni.iitm.ac.in"
+        self.role      = "Research Fellow @ IIT Bombay"
+        self.prev      = "GenAI Engineer @ LOQO AI"
+        self.education = "BS Data Science, IIT Madras"
+        self.research  = ["Deepfake Detection",
+                          "Wavelet Transforms",
+                          "Biometrics"]
+        self.building  = ["Multi-Agent Pipelines",
+                          "Text-to-Video"]
+        self.community = "7,000+ on LinkedIn & YT"
+        self.contact   = "premksharma@alumni.iitm.ac.in"
 
     def say_hi(self):
-        print("Thanks for dropping by — let's build something intelligent!")
+        print("Let's build something intelligent!")
 
 me = PremKumarSharma()
 me.say_hi()
 ```
 
-- 🔭 **Currently:** Research Fellow @ **IIT Bombay** — deepfake detection & biometric fingerprints via wavelet transforms
-- 💼 **Previously:** GenAI Engineer @ **LOQO AI** — CrewAI / LangChain multi‑agent pipelines & text‑to‑video workflows
-- 🎓 **Alumnus:** **IIT Madras** — BS in Data Science & Applications
-- 🚀 **Leadership:** Led a 36‑hour national hackathon at IIT‑M; community of **7,000+** on LinkedIn & YouTube
-- 💡 **Interests:** GenAI · LLMs · Agentic AI · Computer Vision · Signal Processing
-- 🌱 **Currently learning:** Diffusion fine‑tuning, MCP servers, vector DB internals
-- 💬 **Ask me about:** RAG systems, LangGraph, CrewAI orchestration, research workflows
-- 📫 **Reach me at:** <a href="mailto:premksharma@alumni.iitm.ac.in">premksharma@alumni.iitm.ac.in</a>
+</td>
+<td width="42%" valign="top" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+</td>
+</tr>
+</table>
 
-<br clear="right" />
+- 🔭 **Currently:** Research Fellow @ **IIT Bombay** — deepfake detection & biometric fingerprints via wavelet transforms
+- 💼 **Previously:** GenAI Engineer @ **LOQO AI** — CrewAI / LangChain multi-agent pipelines & text-to-video workflows
+- 🎓 **Alumnus:** **IIT Madras** — BS in Data Science & Applications
+- 🚀 **Leadership:** Led a 36-hour national hackathon at IIT-M; **7,000+** community on LinkedIn & YouTube
+- 💡 **Interests:** GenAI · LLMs · Agentic AI · Computer Vision · Signal Processing
+- 🌱 **Currently learning:** Diffusion fine-tuning, MCP servers, vector DB internals
+- 💬 **Ask me about:** RAG, LangGraph, CrewAI orchestration, research workflows
+- 📫 **Reach me at:** <a href="mailto:premksharma@alumni.iitm.ac.in">premksharma@alumni.iitm.ac.in</a>
 
 <!-- ============================================= -->
 <!--                 TECH STACK                    -->
@@ -130,9 +140,10 @@ me.say_hi()
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-kumar-sharma&theme=tokyonight" alt="Profile Details" height="180" />
 </div>
 
-### 🏆 Trophy Wall
+### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prem-kumar-sharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem-kumar-sharma&theme=tokyonight" alt="Stats Card" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prem-kumar-sharma&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
 </div>
 
 ### 📈 Activity Graph
