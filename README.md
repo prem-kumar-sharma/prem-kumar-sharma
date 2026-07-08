@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/prem-kumar-sharma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Prem+Kumar+Sharma+%F0%9F%91%8B;Research+Fellow+%40+IIT+Bombay+%F0%9F%94%AC;Generative+AI+%26+LLM+Engineer+%F0%9F%A4%96;Alumnus+%40+IIT+Madras+%F0%9F%8E%93;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Prem+Kumar+Sharma+%F0%9F%91%8B;GenAI+Engineer+%40+SARAL+AI+%E2%80%A2+IIIT+Hyderabad+%F0%9F%A4%96;Precog+Lab+%E2%80%A2+Prof.+PK+%F0%9F%94%AC;Alumnus+%40+IIT+Madras+%F0%9F%8E%93;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing animation" />
   </a>
 </div>
 
@@ -31,15 +31,17 @@
 ```python
 class PremKumarSharma:
     def __init__(self):
-        self.role      = "Research Fellow @ IIT Bombay"
-        self.prev      = "GenAI Engineer @ LOQO AI"
+        self.role      = "GenAI Engineer @ SARAL AI (IIIT Hyderabad)"
+        self.lab       = "Precog Lab · Prof. PK"
+        self.prev      = "Research Fellow @ IIT Bombay"
         self.education = "BS Data Science, IIT Madras"
         self.research  = ["Deepfake Detection",
-                          "Wavelet Transforms",
-                          "Biometrics"]
+                          "AI Explainability (XAI)",
+                          "Wavelet Transforms"]
         self.building  = ["Multi-Agent Pipelines",
+                          "RAG Systems",
                           "Text-to-Video"]
-        self.community = "7,000+ on LinkedIn & YT"
+        self.community = "9,000+ across LinkedIn & YT"
         self.contact   = "premksharma@alumni.iitm.ac.in"
 
     def say_hi(self):
@@ -56,10 +58,11 @@ me.say_hi()
 </tr>
 </table>
 
-- 🔭 **Currently:** Research Fellow @ **IIT Bombay** — deepfake detection & biometric fingerprints via wavelet transforms
-- 💼 **Previously:** GenAI Engineer @ **LOQO AI** — CrewAI / LangChain multi-agent pipelines & text-to-video workflows
+- 🔭 **Currently:** GenAI Engineer @ **SARAL AI** — Precog Lab, **IIIT Hyderabad** — building agentic pipelines & GenAI systems under Prof. PK
+- 🔬 **Previously:** Research Fellow @ **IIT Bombay** — deepfake detection, AI explainability & wavelet-based image processing
+- 💼 **Before that:** GenAI Engineer @ **LOQO AI** — CrewAI / LangChain multi-agent pipelines, RAG & text-to-video workflows
 - 🎓 **Alumnus:** **IIT Madras** — BS in Data Science & Applications
-- 🚀 **Leadership:** Led a 36-hour national hackathon at IIT-M; **7,000+** community on LinkedIn & YouTube
+- 🚀 **Also:** Content creator @ **@insightbyprem** — honest career & AI/ML education for Indian students
 - 💡 **Interests:** GenAI · LLMs · Agentic AI · Computer Vision · Signal Processing
 - 🌱 **Currently learning:** Diffusion fine-tuning, MCP servers, vector DB internals
 - 💬 **Ask me about:** RAG, LangGraph, CrewAI orchestration, research workflows
@@ -77,7 +80,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langgraph&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -90,6 +93,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -132,7 +136,7 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prem-kumar-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=ffffff&include_all_commits=true&count_private=true" alt="Prem's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prem-kumar-sharma&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=prem-kumar-sharma&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" height="180" />
 </div>
 
 <div align="center">
