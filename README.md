@@ -1,32 +1,39 @@
-<!-- ============================================= -->
-<!--            PREM KUMAR SHARMA  ·  README       -->
-<!-- ============================================= -->
+<!-- ============================================================= -->
+<!--          PREM KUMAR SHARMA · README · [ TERMINAL EDITION ]    -->
+<!-- ============================================================= -->
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/363a9fbc-493e-42fc-b4bb-8821ab60322d" width="100%" alt="Prem Kumar Sharma Banner" />
 </div>
 
+<br/>
+
 <div align="center">
   <a href="https://github.com/prem-kumar-sharma">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+there%2C+I%27m+Prem+Kumar+Sharma+%F0%9F%91%8B;GenAI+Engineer+%40+SARAL+AI+%E2%80%A2+IIIT+Hyderabad+%F0%9F%A4%96;Precog+Lab+%E2%80%A2+Prof.+PK+%F0%9F%94%AC;Alumnus+%40+IIT+Madras+%F0%9F%8E%93;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=%3E+whoami;Hi%2C+I'm+Prem+Kumar+Sharma;GenAI+Engineer+%40+SARAL+AI+%C2%B7+IIIT+Hyderabad;Precog+Lab+%C2%B7+Prof.+PK;Alumnus+%40+IIT+Madras;Building+Agentic+Workflows+%26+Deep+Learning+Models" alt="Typing animation" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/prem-kumar-sharma?label=Followers&style=for-the-badge&color=0e75b6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/prem-kumar-sharma?label=Stars&style=for-the-badge&color=0e75b6" alt="stars" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prem-kumar-sharma&label=VISITORS&color=00ff9c&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/prem-kumar-sharma?label=FOLLOWERS&style=flat-square&color=00ff9c&labelColor=0d1117" alt="followers" />
+  <img src="https://img.shields.io/github/stars/prem-kumar-sharma?label=STARS&style=flat-square&color=00ff9c&labelColor=0d1117" alt="stars" />
+</div>
 
-<!-- ============================================= -->
-<!--                 ABOUT ME                      -->
-<!-- ============================================= -->
+<br/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+```console
+prem@github:~$ ./init.sh
+[ok] loading profile ......................... done
+[ok] mounting research + engineering modules .. done
+[ok] status: online · building intelligent systems
+```
 
-<table>
-<tr>
-<td width="58%" valign="top">
+<!-- ============================================================= -->
+<!--                        ABOUT                                  -->
+<!-- ============================================================= -->
+
+## `~/about` <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="26" />
 
 ```python
 class PremKumarSharma:
@@ -41,164 +48,130 @@ class PremKumarSharma:
         self.building  = ["Multi-Agent Pipelines",
                           "RAG Systems",
                           "Text-to-Video"]
-        self.community = "9,000+ across LinkedIn & YT"
+        self.creator   = "@insightbyprem · AI/ML + career, no BS"
         self.contact   = "premksharma@alumni.iitm.ac.in"
 
     def say_hi(self):
-        print("Let's build something intelligent!")
-
-me = PremKumarSharma()
-me.say_hi()
+        return "Let's build something intelligent."
 ```
 
-</td>
-<td width="42%" valign="top" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-</td>
-</tr>
-</table>
+```diff
++ Currently  -> GenAI Engineer @ SARAL AI · Precog Lab · IIIT Hyderabad (Prof. PK)
++ Previously -> Research Fellow @ IIT Bombay · deepfake detection, XAI, wavelets
++ Before     -> GenAI Engineer @ LOQO AI · CrewAI/LangChain agents, RAG, T2V
+! Alumnus    -> IIT Madras · BS Data Science & Applications
+> Creator    -> @insightbyprem · honest AI/ML + career content for students
+# Learning   -> diffusion fine-tuning, MCP servers, vector DB internals
+```
 
-- 🔭 **Currently:** GenAI Engineer @ **SARAL AI** — Precog Lab, **IIIT Hyderabad** — building agentic pipelines & GenAI systems under Prof. PK
-- 🔬 **Previously:** Research Fellow @ **IIT Bombay** — deepfake detection, AI explainability & wavelet-based image processing
-- 💼 **Before that:** GenAI Engineer @ **LOQO AI** — CrewAI / LangChain multi-agent pipelines, RAG & text-to-video workflows
-- 🎓 **Alumnus:** **IIT Madras** — BS in Data Science & Applications
-- 🚀 **Also:** Content creator @ **@insightbyprem** — honest career & AI/ML education for Indian students
-- 💡 **Interests:** GenAI · LLMs · Agentic AI · Computer Vision · Signal Processing
-- 🌱 **Currently learning:** Diffusion fine-tuning, MCP servers, vector DB internals
-- 💬 **Ask me about:** RAG, LangGraph, CrewAI orchestration, research workflows
-- 📫 **Reach me at:** <a href="mailto:premksharma@alumni.iitm.ac.in">premksharma@alumni.iitm.ac.in</a>
+<!-- ============================================================= -->
+<!--                        STACK                                  -->
+<!-- ============================================================= -->
 
-<!-- ============================================= -->
-<!--                 TECH STACK                    -->
-<!-- ============================================= -->
+## `~/stack`
 
-## 🛠️ Tech Stack & Tools
+**> genai · llms · agents**
 
-### 🤖 Generative AI · LLMs · Agents
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=for-the-badge&logo=langgraph&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-5C5C5C?style=for-the-badge&logo=stablediffusion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=00ff9c)
+![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=flat-square&logo=anthropic&logoColor=00ff9c)
+![Gemini](https://img.shields.io/badge/Gemini-0d1117?style=flat-square&logo=googlegemini&logoColor=00ff9c)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=00ff9c)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langgraph&logoColor=00ff9c)
+![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=flat-square&logo=openai&logoColor=00ff9c)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logo=meta&logoColor=00ff9c)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=00ff9c)
+![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-0d1117?style=flat-square&logo=stablediffusion&logoColor=00ff9c)
+![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=00ff9c)
 
-### 🧠 ML · Deep Learning · Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+**> ml · deep learning · data science**
 
-### 💻 Web & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff9c)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=00ff9c)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=00ff9c)
+![Keras](https://img.shields.io/badge/Keras-0d1117?style=flat-square&logo=keras&logoColor=00ff9c)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=00ff9c)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=00ff9c)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=00ff9c)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=00ff9c)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=flat-square&logo=jupyter&logoColor=00ff9c)
+![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=00ff9c)
 
-### ☁️ Infra · Databases · Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+**> web · frameworks**
 
-<!-- ============================================= -->
-<!--                 GITHUB STATS                  -->
-<!-- ============================================= -->
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff9c)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00ff9c)
+![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=00ff9c)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00ff9c)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=00ff9c)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=00ff9c)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=00ff9c)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwind-css&logoColor=00ff9c)
 
-## 📊 GitHub Analytics
+**> infra · databases · tools**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00ff9c)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=00ff9c)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=00ff9c)
+![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=00ff9c)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00ff9c)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00ff9c)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=00ff9c)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logo=chromadb&logoColor=00ff9c)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff9c)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=00ff9c)
+
+<!-- ============================================================= -->
+<!--                        STATS                                  -->
+<!-- ============================================================= -->
+
+## `~/stats`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prem-kumar-sharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=ffffff&include_all_commits=true&count_private=true" alt="Prem's GitHub Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=prem-kumar-sharma&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=prem-kumar-sharma&theme=black-ice&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00FF9C&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=00FF9C" alt="GitHub Streak" />
 </div>
+
+### `~/stats/activity`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prem-kumar-sharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=ffffff&langs_count=10" alt="Top Languages" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prem-kumar-sharma&theme=tokyonight" alt="Profile Details" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-kumar-sharma&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
 </div>
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prem-kumar-sharma&theme=tokyonight" alt="Stats Card" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prem-kumar-sharma&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
-</div>
+### `~/stats/snake`
 
-### 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prem-kumar-sharma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0E75B6&line=0E75B6&point=FFFFFF&area=true&area_color=0E75B6" alt="Activity Graph" />
-</div>
-
-### 🐍 Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/prem-kumar-sharma/prem-kumar-sharma/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
-<!-- ============================================= -->
-<!--                    QUOTE                      -->
-<!-- ============================================= -->
+<!-- ============================================================= -->
+<!--                        QUOTE                                  -->
+<!-- ============================================================= -->
 
-## 💭 Words I Build By
+## `~/motd`
+
+```
+"The best way to predict the future is to invent it."
+                                          - Alan Kay
+```
+
+<!-- ============================================================= -->
+<!--                        CONNECT                                -->
+<!-- ============================================================= -->
+
+## `~/connect`
 
 <div align="center">
 
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/prem-kumar-a499b1201/)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff9c)](https://www.youtube.com/@insightbyprem)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00ff9c)](https://instagram.com/prem.kr_sharma)
+[![HackerRank](https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=00ff9c)](https://www.hackerrank.com/viratprem4321?hr_r=1)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:premksharma@alumni.iitm.ac.in)
 
 </div>
 
-<!-- ============================================= -->
-<!--                 CONNECT WITH ME               -->
-<!-- ============================================= -->
-
-## 🤝 Let's Connect
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/prem-kumar-a499b1201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@insightbyprem" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://instagram.com/prem.kr_sharma" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/viratprem4321?hr_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:premksharma@alumni.iitm.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling" alt="footer" />
+  <br/>
+  <code>prem@github:~$ exit</code>
+  <br/><br/>
+  <sub>thanks for stopping by</sub>
 </div>
